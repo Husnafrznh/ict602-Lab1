@@ -47,4 +47,10 @@ public class MainActivity extends AppCompatActivity {
         Toast toast = Toast.makeText(this, "Name cleared", Toast.LENGTH_SHORT);
         toast.show();
     }
+
+    public void testingFunction(View view)
+    {
+        //this is a new function
+        //membazir function
+    }
 }
